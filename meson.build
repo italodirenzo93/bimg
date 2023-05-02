@@ -147,8 +147,5 @@ bimg_dep = declare_dependency(
 		bimg,
 		bimg_decode,
 		bimg_encode
-	],
-	dependencies: [
-		bx_dep
 	]
 )
